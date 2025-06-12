@@ -159,4 +159,4 @@ async def on_ready():
     print(f'Bot listo como {bot.user.name}')
 
 # Iniciar el bot
-bot.run('b0ZxsEwp0Dl9SQ2Db4T64-iTN2MlbXpH')  # Reemplaza con tu token real
+bot.run('TU TOKEN')  # Reemplaza con tu token real
